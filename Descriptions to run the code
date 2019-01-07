@@ -1,0 +1,5 @@
+# We have used the following librairies which should be imported before running the code : random, math, numpy scikit-learn, igraph, 
+nltk
+# To run our code, we have used the file : training_set.csv, testing_set.csv, node_information.csv, random_predictions.csv.
+# At firt we have used the node_information.csv 
+#To compute the training_set and the testing_set we have used respectively the files training_set.csv and testing_set.csv.
